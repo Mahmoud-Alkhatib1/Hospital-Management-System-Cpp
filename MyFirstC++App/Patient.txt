@@ -1,0 +1,9 @@
+1#//#Hasan Ali Alsyaed#//#097857844#//#15/01/2004#//#Male#//#Hama#//#10/12/2023#//#18/6/2026#//#Asthma#//#NoAllergies#//#A+
+2#//#Hala Emad Issa#//#097786556#//#22/03/2002#//#FeMale#//#Hama#//#10/12/2023#//#18/6/2026#//#Asthma#//#NoAllergies#//#B+
+3#//#Ali Talal Ibrahem#//#095674874#//#23/10/2004#//#Male#//#Hama#//#13/07/2024#//#18/6/2026#//#None#//#NoAllergies#//#A+
+4#//#Abdulazeem noman alghmais#//#095784654#//#3/1/2005#//#Male#//#hasaka#//#11/1/2024#//#18/6/2026#//#None#//#NoAllergies#//#A+
+5#//#Mahmoud Ahmad Alkhatib#//#093699273#//#11/1/2004#//#Male#//#Hama#//#5/2/2023#//#18/6/2026#//#None#//#NoAllergies#//#A+
+6#//#Alaa ibrahem Shahoud#//#095675484#//#5/5/2002#//#Male#//#Hama#//#17/1/2024#//#18/6/2026#//#None#//#NoAllergies#//#A+
+7#//#Amjad Majde Ballan#//#093758465#//#11/5/2004#//#FeMale#//#Damascus#//#12/4/2025#//#18/6/2026#//#None#//#NoAllergies#//#O+
+8#//#Mohamad Sharif Mahmoud#//#093578458#//#13/1/2004#//#Male#//#Hama#//#13/4/2025#//#15/2/2026#//#None#//#NoAllergies#//#B-
+9#//#Khder Ali Wassof#//#0937768587#//#18/2/2003#//#Male#//#Hama#//#15/8/2025#//#18/6/2026#//#KidneyDisease#//#Aspirin#//#B+

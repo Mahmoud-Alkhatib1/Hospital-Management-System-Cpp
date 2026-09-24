@@ -1,0 +1,12 @@
+1#//#Dr.Mohamad#//#Ali#//#0987237283#//#Mohamad@gmail.com#//#Cardiology#//#100.000000#//#Thursday,Tuesday,Monday#//#12:00#//#20:00#//#SecondClinic
+2#//#Dr.Sara#//#Hassan#//#0952345678#//#sara@clinic.com#//#Pediatrics#//#80.000000#//#Sunday,Monday,Thursday#//#10:00#//#20:00#//#Clinic4
+3#//#Dr.Khaled#//#Mahmoud#//#0953456789#//#khaled@clinic.com#//#Orthopedics#//#120.000000#//#Sunday,Monday,Thursday#//#11:00#//#21:00#//#Clinic5
+4#//#Dr.Nour#//#Alherek#//#0937764832#//#Nour@gmail.com#//#ENT#//#50.000000#//#Tuesday,Wednesday,Thursday#//#12:00#//#22:00#//#Clinic7
+5#//#Dr.Zain#//#Barakat#//#0918872663#//#Zain@gmail.com#//#General#//#40.000000#//#Thursday,Friday,Sunday#//#01:00#//#11:00#//#FirstClinic
+6#//#Dr.Reem#//#jafar#//#0987747389#//#Reem@gmail.com#//#Ophthalmology#//#95.000000#//#Wednesday,Thursday,Friday#//#12:00#//#22:00#//#Clinic6
+7#//#Dr.Hasan#//#Ward#//#0985576438#//#Hasan@gmail.com#//#Neurology#//#75.000000#//#Monday#//#15:00 #//#22:00#//#Clinic9
+8#//#Dr.Ali#//#Alhaj#//#0988273267#//#Ali@gmail.com#//#Dermatology#//#75.000000#//#Wednesday,Thursday,Friday#//#12:00#//#20:00#//#Clinic3
+9#//#Dr.Nagham#//#Fatoum#//#0938851451#//#Nagham@gmail.com#//#Pediatrics#//#40.000000#//#Monday,Tuesday,Wednesday#//#12:00#//#20:00#//#Clinic4
+10#//#Dr.Yamen#//#Zedan#//#0951174835#//#Yamen@gmail.com#//#Dermatology#//#35.000000#//#Sunday,Monday,Tuesday#//#12:00#//#20:00#//#Clinic3
+11#//#Dr.Ayman#//#Alhakeem#//#0974622642#//#Ayman@gmail.com#//#Ophthalmology#//#50.000000#//#Tuesday,Wednesday,Thursday#//#12:00#//#22:00#//#Clinic6
+12#//#Dr.Somar#//#Alsaleh#//#0938748376#//#Somar@gmail.com#//#Pediatrics#//#25.000000#//#Thursday,Friday,Saturday#//#12:00#//#22:00#//#Clinic4

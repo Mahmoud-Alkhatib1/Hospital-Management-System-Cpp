@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{d6c04ac4-3e98-4fd1-81bb-f5ac3b9bcb6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Lib">
+      <UniqueIdentifier>{d99f1836-b08f-4b53-86b2-a0f3882942bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{1ffbf622-e863-43a0-8cb0-0c325423c79c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Client">
+      <UniqueIdentifier>{aea69afd-2dd1-4716-8151-72bab3f403cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\User">
+      <UniqueIdentifier>{95714eb5-5c48-4365-a726-065e3ce7862f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Currencies">
+      <UniqueIdentifier>{cc0c6410-af29-4757-992c-86fadf518375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DS">
+      <UniqueIdentifier>{1e5ebb66-8134-4dfa-9fdd-1a26ba8508c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clinic">
+      <UniqueIdentifier>{770291be-a869-450a-a493-82af9bff8b4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clinic\Patient">
+      <UniqueIdentifier>{9e5fbfe4-b74e-42aa-8990-2f6613ab32cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clinic\Doctor">
+      <UniqueIdentifier>{f94b2df5-4616-451a-8ccd-e13a613bc5b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clinic\ِAppointments">
+      <UniqueIdentifier>{d41dbafd-0395-41b4-8875-86fa3878d9b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Other">
+      <UniqueIdentifier>{c0153e69-9965-4549-b754-24fbc22938c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clinic\Medicine">
+      <UniqueIdentifier>{f812882f-21a4-4891-81a5-b447da835860}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clinic\Invoice">
+      <UniqueIdentifier>{25db8991-f71e-400f-b5c1-257f8b2f0b4e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyFirstC++App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrency.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUser.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewClientScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsClientListScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewUserScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrenciesListScreen.h">
+      <Filter>Header Files\Screens\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrencyCalculatorScreen.h">
+      <Filter>Header Files\Screens\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrencyExchangeMainScreen.h">
+      <Filter>Header Files\Screens\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteClientScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteUserScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDepositScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindClientScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCurrencyScreen.h">
+      <Filter>Header Files\Screens\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindUserScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsListUsersScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageUsersScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateClientScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateCurrencyRateScreen.h">
+      <Filter>Header Files\Screens\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateUserScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTotalBalancesScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransferLogScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransactionsScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransferScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsWithdrawScreen.h">
+      <Filter>Header Files\Screens\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginRegisterScreen.h">
+      <Filter>Header Files\Screens\User</Filter>
+    </ClInclude>
+    <ClInclude Include="clsEmployee.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceCommunication.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPeriod.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="MyInputValidNumberLib.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="MyLipC7.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCourse5.h">
+      <Filter>Header Files\Other</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDblLinkedList.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyQueue.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStack.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDynamicArray.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyQueueArr.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStackArr.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyString.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsQueueLine.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPrintJob.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsHospitalQueue.h">
+      <Filter>Header Files\DS</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewPatient.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAllPatient.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeletePatient.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindPatient.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManagePatient.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPatients.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdatePatient.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPatientMedicalHistory.h">
+      <Filter>Header Files\Clinic\Patient</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageDoctors.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewDoctor.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindDoctor.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateDoctor.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteDoctor.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoctors.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllDoctors.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowDoctorsBySpecialization.h">
+      <Filter>Header Files\Clinic\Doctor</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAppointment.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBookNewAppointment.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageAppointments.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindAppointment.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateAppointment.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteAppointment.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowTodaysAppointments.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowDoctorAppointments.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAvailableSlots.h">
+      <Filter>Header Files\Clinic\ِAppointments</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageMedicinesScreen.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMedicine.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindMedicineScreen.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAllMedicinesScreen.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewMedicineScreen.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateMedicineScreen.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteMedicineScreen.h">
+      <Filter>Header Files\Clinic\Medicine</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInvoice.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageInvoicesScreen.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewInvoiceScreen.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindInvoiceScreen.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAllInvoicesScreen.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateInvoiceScreen.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteInvoiceScreen.h">
+      <Filter>Header Files\Clinic\Invoice</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowMainMenue2.h">
+      <Filter>Header Files\Clinic</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

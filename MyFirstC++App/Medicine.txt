@@ -1,0 +1,7 @@
+1#//#Paracetamol#//#Analgesic#//#5.000000#//#100
+2#//#Amoxicillin#//#Antibiotic#//#15.000000#//#50
+3#//#Ibuprofen#//#Analgesic#//#8.000000#//#75
+4#//#Lasix#//#Analgesic#//#5.500000#//#25
+5#//#Sytamool#//#Analgesic#//#1.000000#//#100
+6#//#Losartan#//#Analgesic#//#5.000000#//#100
+7#//#Provine#//#Analgesic#//#2.500000#//#100
